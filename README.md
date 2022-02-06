@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kuto5046&count_private=true&show_icons=true&theme=calm" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kuto5046&count_private=true&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuto5046&theme=calm" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuto5046&theme=nord" />
 </a>
 <!--
 **kuto5046/kuto5046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
