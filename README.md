@@ -1,8 +1,8 @@
-## kaggle
+<!-- ## kaggle
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kuto0633/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kuto0633/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kuto0633/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kuto0633/discussion/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kuto0633/discussion/light) -->
 
 ## profile
 <a href="https://github.com/anuraghazra/github-readme-stats">
